@@ -2,8 +2,7 @@
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning everything 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- 😄 Pronouns: fuck/you
+- 📫 How to reach me via carrier pigeon 
 - ⚡ Fun fact: Student 
 
 <!---
