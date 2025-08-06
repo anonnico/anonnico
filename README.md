@@ -36,8 +36,8 @@ Stay tuned...
 ---
 
 ## 📫 Reach Me  
-- 📬 Email: niko.gebrande@icloud.com
-- 🔗 LinkedIn: 
+- 📬 Email: ...
+- 🔗 LinkedIn: ... 
 
 ---
 <!---
