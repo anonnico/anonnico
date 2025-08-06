@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 Current Projects
-... 
+Stay tuned...
 ---
 
 ## 🛠 Tech Stack & Tools
