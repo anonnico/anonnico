@@ -1,4 +1,4 @@
-# Hi there, I'm Niko 👋
+# Hi there, I'm Niko
 
 🎓 Computer Science student at Munich University of Applied Sciences  
 🐧 Linux enthusiast & low-level tinkerer  
